@@ -26,9 +26,13 @@ flask_full_lab_app/
 ├── templates/
 
 │   ├── base.html
+
 │   ├── index.html
+
 │   ├── greet.html
+
 │   ├── favorites.html
+
 │   └── login.html
 
 ├── static/             
