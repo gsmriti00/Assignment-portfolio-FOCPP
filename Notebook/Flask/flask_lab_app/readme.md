@@ -22,14 +22,20 @@ flask_full_lab_app/
 │
 ├── app.py               
 ├── requirements.txt    
-├── templates/         
+├── templates/  
 │   ├── base.html
+
 │   ├── index.html
+
 │   ├── greet.html
+
 │   ├── favorites.html
+
 │   └── login.html
+
 ├── static/             
 │   └── style.css
+
 └── venv/            
 
 
