@@ -22,7 +22,7 @@ flask_hello_app/
 
 └── static/
 
-   └── style.css         
+     └── style.css         
 
 What I Learned:
 Through this lab, I learned how to set up a virtual environment, create routes and pages in Flask, use templates for consistent layout, handle user input through forms, create dynamic content using URL variables, and style pages with CSS. I also learned how to save project dependencies for sharing.
